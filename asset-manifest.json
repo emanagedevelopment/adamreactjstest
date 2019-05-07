@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adamreactjstest/static/css/main.584f321a.chunk.css",
+    "main.js": "/adamreactjstest/static/js/main.a90e7cae.chunk.js",
+    "main.js.map": "/adamreactjstest/static/js/main.a90e7cae.chunk.js.map",
+    "runtime~main.js": "/adamreactjstest/static/js/runtime~main.8165c749.js",
+    "runtime~main.js.map": "/adamreactjstest/static/js/runtime~main.8165c749.js.map",
+    "static/js/2.bff8852c.chunk.js": "/adamreactjstest/static/js/2.bff8852c.chunk.js",
+    "static/js/2.bff8852c.chunk.js.map": "/adamreactjstest/static/js/2.bff8852c.chunk.js.map",
+    "index.html": "/adamreactjstest/index.html",
+    "precache-manifest.b2908036b32c1c510d4963b73533dd74.js": "/adamreactjstest/precache-manifest.b2908036b32c1c510d4963b73533dd74.js",
+    "service-worker.js": "/adamreactjstest/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/adamreactjstest/static/css/main.584f321a.chunk.css.map"
+  }
+}
